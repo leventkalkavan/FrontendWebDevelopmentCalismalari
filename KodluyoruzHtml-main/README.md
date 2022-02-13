@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+
+<h1>Levent Kalkavan</h1>
+    
+<!-- Ad-Soyad h1 ile şeklinde yazıldı-->
+
+<H2>Hakkımda</H2>
+    
+<!-- "Hakkımda" kısmı h2 ile açıldı-->
+     
+<p>Merhaba ben Levent Kalkavan. Kocaeli'de yaşıyorum. Futbol izlemeyi ve futbol hakkında yazılmış çeşitli yazıları okumayı severim. Zaman buldukça da oynamayı çalışırım.</p>
+        
+<p> Güzel havalarda da yürüyüş yapmayı tercih ederim. </p>
+
+<!-- paragraf kısmında kendimi birkaç kısa açıklama ile anlattım-->
+
+<h2>Sevdiğim Spor Yorumcuları</h2>
+
+<!-- Sevdiğim yorumcular hakkında h2 ile alt başlık oluşturdum --> 
+<p>Nihat Kahveci, eski bir milli futbolcu olan Kahveci bu aralar Trt Spor ve Youtube kanallarında yorumculuk yapmaktadır. </p>
+<p>Serkan Akkoyun, Trt Spor'da avrupa futbolu üzerinden çeşitli yayınlar yapmıştır. Bu aralar Youtube üzerinden yorumucluk yapmaktadır. </p>
+<p>Mert Aydın, NTV Spor'da çeşitli programlarda yorumculuk yapmıştır. Bu aralar mesleği olan gazeteceliğe devam etmektedir.</p>
+
+</body>
+</html>

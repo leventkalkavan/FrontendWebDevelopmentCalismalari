@@ -1,0 +1,71 @@
+.inline {
+    display: inline;
+}
+img{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+.search{
+    width: 90%;
+    margin: auto;
+    text-align: center;
+    background: #ece8e8;
+}
+
+input{
+    width: 350px;
+}
+
+.Google{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.special{
+    background: #90f7ec;
+    text-align: center;
+    margin-top: 3px;
+    width: 38%;
+    padding: 19px;
+}
+
+.class1{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.help{
+    background: #1cc5b2;
+    text-align: center;
+    margin-left: 3px;
+    width: 15%;
+    margin-top: 3px;
+    padding: 10px;
+}
+
+.class2{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.get {
+    background: #0aa492;
+    text-align: center;
+    margin-left: 3px;
+    width: 47%;
+    margin-top: 3px;
+    padding: 7px;
+}
+
+.footer {
+    text-align: center;
+ 
+}
