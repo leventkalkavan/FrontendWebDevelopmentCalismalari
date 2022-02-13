@@ -1,0 +1,75 @@
+body{
+    text-align: center;
+    
+}
+
+h1{
+    color: rgb(186, 14, 14);
+}
+
+h2{
+    color:rgb(109, 12, 128);
+    font: normal;
+  
+}
+
+a{
+    text-decoration: none;
+}
+.jumbotron{
+    margin-top: 8%;
+    margin-bottom: 5%;
+    text-align: center;
+}
+.jumbotron-fluid{
+    margin-top: 2%;
+    margin-bottom: 0%;
+}
+
+h3{color: rgb(177, 159, 21);
+}
+
+h4{
+    color: rgb(178, 181, 38);
+}
+
+
+.urun h2{
+    text-align: center;
+    color:rgb(109, 12, 128);
+    size: 13px;
+    font: normal;
+}
+
+.card{
+    padding-bottom: 10%;
+    height: 400px;
+    width: 300px;
+    margin-top: 5px;
+    margin: 10px 20px 10px 20px;
+}
+
+.urun h5{
+    color: rgb(172, 126, 204);
+    text-align: left;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding-bottom: 2%;
+    
+}
+
+.urun img{
+    height: 297px;
+    width: 297px;
+}
+
+.card-text{
+   color: whitesmoke;
+    background-color: rgb(107, 113, 117);
+    border-radius: 15%;
+    text-align: left;
+    font-size: medium;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 2%;
+    
+}
